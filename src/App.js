@@ -16,9 +16,11 @@ class App extends React.Component {
         key:''
       }
     }
+    // bind all your functions to the constructor
     this.handleInput = this.handleInput.bind(this)
     this.addItem = this.addItem.bind(this)
     this.deleteItem = this.deleteItem.bind(this)
+    this.setUpdate = this.setUpdate.bind(this)
   }
   handleInput(e){
     this.setState({
@@ -47,6 +49,17 @@ class App extends React.Component {
       item.key !== key)
       this.setState({ items: filteredItems })
   }
+  setUpdate(text, key){
+    const items = this.state.items
+    items.map(item => {
+      if(item.key===key){
+        item.text=text
+      }
+    })
+    this.setState({
+      items: items
+    })
+  }
   render() {
     return (
       <div className="App">
@@ -57,7 +70,7 @@ class App extends React.Component {
             <button type="submit">Add task</button>
           </form>
         </header>
-        <ListItems items = {this.state.items} deleteItem={this.deleteItem}></ListItems>
+        <ListItems items = {this.state.items} deleteItem={this.deleteItem} setUpdate={this.setUpdate}></ListItems>
       </div>
     );
   }

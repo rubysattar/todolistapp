@@ -19,3 +19,12 @@
     margin: 0 5px;
     font-size: 15px;
 }
+.list p input{
+    background-color: transparent;
+    border: 0;
+    color: #fff;
+    font-size: 18px;
+}
+.list p input:focus{
+    outline: none;
+}
