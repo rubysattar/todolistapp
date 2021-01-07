@@ -10,6 +10,13 @@ body{
   width: 400px;
   margin: 40px auto;
 }
+.rules{
+  color: #fff;
+  font-size: 12px;
+  text-align: center;
+  padding: 10px;
+  height: 8px;
+}
 #to-do-form input{
   background-color: rgb(27,112,137);
   border: 0;

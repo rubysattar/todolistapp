@@ -64,9 +64,10 @@ class App extends React.Component {
     return (
       <div className="App">
         <header>
+            <h1 className="rules">Manage your to-do list. </h1>
+            <p className="rules">Start by adding a new task. Edit tasks you've already added. Delete a task when it's been completed.</p>
           <form id="to-do-form" onSubmit={this.addItem}>
-            <input type="text" placeholder="Enter Text" value={this.state.currentItem.text} onChange={this.handleInput}/>
-
+            <input type="text" placeholder="I need to..." value={this.state.currentItem.text} onChange={this.handleInput}/>
             <button type="submit">Add task</button>
           </form>
         </header>
