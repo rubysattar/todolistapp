@@ -7,6 +7,7 @@ https://rubysattar.github.io/todolistapp/
 ### Technology used
 - React
 - fontawesome library
+- React library animations
 - javascript
 - html
 - css 
