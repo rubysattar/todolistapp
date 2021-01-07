@@ -3,6 +3,7 @@ I made this React app to manage my tasks and wanted to try using in-line updates
 
 # Technology used
 - React
+- fontawesome library
 - javascript
 - html
 - css 
