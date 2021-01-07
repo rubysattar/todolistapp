@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/rubysattar/todolistapp/static/css/main.3b15e81d.chunk.css",
-    "main.js": "/rubysattar/todolistapp/static/js/main.3e36628c.chunk.js",
-    "main.js.map": "/rubysattar/todolistapp/static/js/main.3e36628c.chunk.js.map",
-    "runtime-main.js": "/rubysattar/todolistapp/static/js/runtime-main.d99511ab.js",
-    "runtime-main.js.map": "/rubysattar/todolistapp/static/js/runtime-main.d99511ab.js.map",
-    "static/js/2.8a508cd0.chunk.js": "/rubysattar/todolistapp/static/js/2.8a508cd0.chunk.js",
-    "static/js/2.8a508cd0.chunk.js.map": "/rubysattar/todolistapp/static/js/2.8a508cd0.chunk.js.map",
-    "static/js/3.6a4d9715.chunk.js": "/rubysattar/todolistapp/static/js/3.6a4d9715.chunk.js",
-    "static/js/3.6a4d9715.chunk.js.map": "/rubysattar/todolistapp/static/js/3.6a4d9715.chunk.js.map",
-    "index.html": "/rubysattar/todolistapp/index.html",
-    "static/css/main.3b15e81d.chunk.css.map": "/rubysattar/todolistapp/static/css/main.3b15e81d.chunk.css.map",
-    "static/js/2.8a508cd0.chunk.js.LICENSE.txt": "/rubysattar/todolistapp/static/js/2.8a508cd0.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/rubysattar/todolistapp/static/media/classroom.00e74bb1.jpg"
+    "main.css": "/todolistapp/static/css/main.90bc1117.chunk.css",
+    "main.js": "/todolistapp/static/js/main.3e36628c.chunk.js",
+    "main.js.map": "/todolistapp/static/js/main.3e36628c.chunk.js.map",
+    "runtime-main.js": "/todolistapp/static/js/runtime-main.0ff3ad79.js",
+    "runtime-main.js.map": "/todolistapp/static/js/runtime-main.0ff3ad79.js.map",
+    "static/js/2.8a508cd0.chunk.js": "/todolistapp/static/js/2.8a508cd0.chunk.js",
+    "static/js/2.8a508cd0.chunk.js.map": "/todolistapp/static/js/2.8a508cd0.chunk.js.map",
+    "static/js/3.6a4d9715.chunk.js": "/todolistapp/static/js/3.6a4d9715.chunk.js",
+    "static/js/3.6a4d9715.chunk.js.map": "/todolistapp/static/js/3.6a4d9715.chunk.js.map",
+    "index.html": "/todolistapp/index.html",
+    "static/css/main.90bc1117.chunk.css.map": "/todolistapp/static/css/main.90bc1117.chunk.css.map",
+    "static/js/2.8a508cd0.chunk.js.LICENSE.txt": "/todolistapp/static/js/2.8a508cd0.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/todolistapp/static/media/classroom.00e74bb1.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d99511ab.js",
+    "static/js/runtime-main.0ff3ad79.js",
     "static/js/2.8a508cd0.chunk.js",
-    "static/css/main.3b15e81d.chunk.css",
+    "static/css/main.90bc1117.chunk.css",
     "static/js/main.3e36628c.chunk.js"
   ]
 }
